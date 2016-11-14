@@ -926,7 +926,7 @@
 926="I ain’t a slave!"
 927="Language"
 928="English"
-929="Русский"
+929=""
 930="One of your buddies has visited you and smuggled some items:"
 931=""
 932="Next visitation in"
