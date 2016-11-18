@@ -9,6 +9,8 @@ buildscript {
 apply plugin: 'android'
 
 dependencies {
+androidTestCompile 'com.android.support.test.espresso:espresso-core:2.2.2'
+androidTestCompile 'com.android.support.test:runner:0.5'
     compile fileTree(dir: 'libs', include: '*.jar')
 }
 
