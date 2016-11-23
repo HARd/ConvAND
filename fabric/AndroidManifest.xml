@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="io.fabric.sdk.android.unity">
+  <application>
+    <meta-data android:name="io.fabric.ApiKey" android:value="fb2ee28826e922a6de23e694c8c2e736210ae7c7" />
+    <meta-data android:name="io.fabric.mopubkit.qualified" android:value="com.mopub.common.MoPubKit" />
+    <meta-data android:name="io.fabric.mopubkit.unqualified" android:value="MoPubKit" />
+    <meta-data android:name="io.fabric.kits" android:value="mopubkit" />
+  </application>
+</manifest>
